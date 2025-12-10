@@ -3,3 +3,4 @@
 - [Темы курсовых работ](projects.MD)
 - [Материалы](materials.MD)
 - [Прогресс выполнения и рейтинги](https://docs.google.com/spreadsheets/d/1piDUiVFY1J5t0aZe1_87AubXyMCtH9qaRiCxr9oUDA8/edit?usp=sharing) (откроется файл в Google Таблицы)
+- [Чек-лист Курсовой работы](kr_checklist.MD)
