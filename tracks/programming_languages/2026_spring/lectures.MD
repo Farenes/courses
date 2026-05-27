@@ -127,20 +127,46 @@
 3. Shell и его место в архитектуре
 4. WYSIWYG и CLI
 5. Vim
+### Материалы
+1. [Bash Scripting](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 
 ## Лекция 11. UNIX и Bash. Основные команды UNIX систем
+### Темы
+1. Базовые команды
+2. Команды по работе с датами
+### Материалы
+1. [Bash Scripting](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 
 ## Лекция 12. UNIX и Bash. Основные команды UNIX систем 2
+### Темы
+1. Команды по обработке текста
+2. Команда по работе с файлами
+3. Сетевые команды
+### Материалы
+1. [Bash Scripting](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 
-## Лекция ?. Практика Вайб-кодинга и работы с LLM
+## Лекция 13. Агентно-ориентированное программирование
+[Ссылка на презентацию](https://docs.google.com/presentation/d/19xGri-asaYv8odjp05-4C_9rFjlV_6gs2OvDDtC6GrI/edit?usp=sharing)
+1. Что такое LLM и как они работают
+2. Токен, Контекст, RAG, Fine-Tuning
+3. Принципы АОП
+4. Устройство агентов
+### Материалы
+1. [https://habr.com/ru/articles/1029326/](Как устроены агенты)
+2. [Сложная статья про AGI и LLM](https://habr.com/ru/companies/lanit/articles/1032412/)
 
-## Лекция ?. Регулярные выражения
+## Лекция 14. Промпт-инжиниринг
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1jitfN4QSBV3humrdmImzpla4z3_HitIdd24xiYg_DVQ/edit?usp=sharing)
+1. Что такое RLM и в чем их отличие от LLM
+2. Правила составления промпта
+3. Советы по работе с LLM
+4. Архитектура агента
+### Материалы
+1. [Техники промптинга](https://habr.com/ru/companies/alpinadigital/articles/1034954/)
+2. [Что работает в промптах, а что нет](https://habr.com/ru/articles/1038510/)
+3. [Пример моего агента на Java](https://github.com/Farenes/agent)
 
-## Лекция ?. HTTP, REST API и основы веб-взаимодействия
-
-## Лекция ?. Сетевое программирование и сокеты
-
-## Лекция ?. Основы тестирования программного обеспечения
-
-
-
+## Лекция 15. Заключительное занятие
+1. Вопросы и ответы
+2. Как будем сдавать экзамен
+3. Подведение итогов
