@@ -1,1 +1,10 @@
+# Obsidian
+.obsidian/
+
+# Cursor / VS Code
+.cursor/
+.vscode/
+
+# Системный мусор ОС
 .DS_Store
+Thumbs.db
