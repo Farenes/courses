@@ -8,3 +8,7 @@
 # Системный мусор ОС
 .DS_Store
 Thumbs.db
+
+# Разное
+drafts/
+checks/
